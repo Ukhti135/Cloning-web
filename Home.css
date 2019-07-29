@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    font-family: 'Roboto',sans-serif;  
+    background-color: #000000;
+    background-image: linear-gradient(19deg, #000000 8%, #56248f 100%);
+    color: white;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.judul {
+    width: 83px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 500px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2,5;
+    letter-spacing: normal;
+    color: white;
+    padding-top: 100px;
+    padding-right: 20px;
+}
+.container {
+    margin-right: 50px;
+    margin-top: -150px;
+    float: right;
+}
+.container ul {
+    display: flex;
+    
+}
+.container ul li {
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity: 0.7;
+    text-decoration: none;
+}
+.container ul li a {
+    display: block;
+    margin: 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.container ul li button {
+    border: 1px solid white;
+    border-radius: 17px;
+    width: 150px;
+    background-color: transparent;
+    font-size: 18px;
+    
+}
+.judul
+{
+    font-family: "Roboto" sans-serif;
+    font-size: 30px;
+    padding: 20px;
+}
+.icon {
+    padding-top: 28px;
+    margin-top: -50px;
+    margin-left: 10px;
+}
+
+.text
+{
+    font-family: "Roboto" sans-serif;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.header {
+    padding-top: 100px;
+    padding-left: 25px;
+}
+.img {
+    float: right;
+    margin-top: -110px;
+}
+.text1 {
+    font-family: 'Roboto',sans-serif;
+    font-size: 60px;
+    margin-right: 34px;
+    margin-top: -10px;
+}
+.text2 {
+    font-size: 23px;
+    margin-top: 35px;
+}
+.text3 {
+    font-size: 23px;
+    margin-top: 10px;
+}
+button {
+    width: 170px;
+    height: 52px;
+    border-radius: 26px;
+    box-shadow: 0 10px 40px (254, 73, 0, 0.3);
+    background-color: rgb(254, 73, 0);
+    border: none;
+    color: #fff ;
+    font-size: 22px;
+    margin-right: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tombol
+{
+    background-color: orangered;
+    width: 150px;
+    height: 50px;
+    font-family: "Roboto" sans-serif;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.text4 
+{
+    margin-top: -35px;
+    margin-left: 52px;
+}
+
